@@ -1,0 +1,15 @@
+C:\Users\shereposhek\Desktop\OSPanel_2024_min_8.0\domains\work14\BruteForce\bin\Debug\net9.0\BruteForce.exe
+C:\Users\shereposhek\Desktop\OSPanel_2024_min_8.0\domains\work14\BruteForce\bin\Debug\net9.0\BruteForce.deps.json
+C:\Users\shereposhek\Desktop\OSPanel_2024_min_8.0\domains\work14\BruteForce\bin\Debug\net9.0\BruteForce.runtimeconfig.json
+C:\Users\shereposhek\Desktop\OSPanel_2024_min_8.0\domains\work14\BruteForce\bin\Debug\net9.0\BruteForce.dll
+C:\Users\shereposhek\Desktop\OSPanel_2024_min_8.0\domains\work14\BruteForce\bin\Debug\net9.0\BruteForce.pdb
+C:\Users\shereposhek\Desktop\OSPanel_2024_min_8.0\domains\work14\BruteForce\obj\Debug\net9.0\BruteForce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shereposhek\Desktop\OSPanel_2024_min_8.0\domains\work14\BruteForce\obj\Debug\net9.0\BruteForce.AssemblyInfoInputs.cache
+C:\Users\shereposhek\Desktop\OSPanel_2024_min_8.0\domains\work14\BruteForce\obj\Debug\net9.0\BruteForce.AssemblyInfo.cs
+C:\Users\shereposhek\Desktop\OSPanel_2024_min_8.0\domains\work14\BruteForce\obj\Debug\net9.0\BruteForce.csproj.CoreCompileInputs.cache
+C:\Users\shereposhek\Desktop\OSPanel_2024_min_8.0\domains\work14\BruteForce\obj\Debug\net9.0\BruteForce.sourcelink.json
+C:\Users\shereposhek\Desktop\OSPanel_2024_min_8.0\domains\work14\BruteForce\obj\Debug\net9.0\BruteForce.dll
+C:\Users\shereposhek\Desktop\OSPanel_2024_min_8.0\domains\work14\BruteForce\obj\Debug\net9.0\refint\BruteForce.dll
+C:\Users\shereposhek\Desktop\OSPanel_2024_min_8.0\domains\work14\BruteForce\obj\Debug\net9.0\BruteForce.pdb
+C:\Users\shereposhek\Desktop\OSPanel_2024_min_8.0\domains\work14\BruteForce\obj\Debug\net9.0\BruteForce.genruntimeconfig.cache
+C:\Users\shereposhek\Desktop\OSPanel_2024_min_8.0\domains\work14\BruteForce\obj\Debug\net9.0\ref\BruteForce.dll
