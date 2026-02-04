@@ -1,6 +1,7 @@
 <?php
 	session_start();
 	include("../settings/connect_datebase.php");
+	include("../settings/safe.php");
 
 	$login = $_POST['login'];
 	$password = $_POST['password'];

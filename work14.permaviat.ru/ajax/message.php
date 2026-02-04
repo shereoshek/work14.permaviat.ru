@@ -1,6 +1,7 @@
 <?
     session_start();
 	include("../settings/connect_datebase.php");
+	include("../settings/safe.php");
 
     $IdUser = $_SESSION['user'];
     $Message = $_POST["Message"];

